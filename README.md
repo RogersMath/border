@@ -1,1 +1,2 @@
-# border
+# By Jesse Rogers. MIT LICENSE
+
